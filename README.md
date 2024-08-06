@@ -1,0 +1,1 @@
+## The model has been build using ANN to predict the potential churn of bank's customers
